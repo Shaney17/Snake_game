@@ -1,0 +1,1 @@
+Tuy chon do kho ,1. De ,2. Trung binh ,3. Kho ,Hay nhap lua chon cua ban: 

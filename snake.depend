@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1494197894 source:e:\tuan linh\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"Menu.h"
+
+1494204162 e:\tuan linh\snake\include\setup.h
+
+1494204350 source:e:\tuan linh\snake\src\setup.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Setup.h"
+
+1494218875 source:e:\tuan linh\snake\src\snake.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"define.h"
+	"Snake.h"
+	"Setup.h"
+
+1494218881 e:\tuan linh\snake\include\snake.h
+	"Setup.h"
+	"define.h"
+
+1494201459 e:\tuan linh\snake\include\fruit.h
+	"define.h"
+
+1494218106 source:e:\tuan linh\snake\src\fruit.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"define.h"
+	"fruit.h"
+	"Setup.h"
+
+1494134081 e:\tuan linh\snake\include\define.h
+
+1494217597 e:\tuan linh\snake\include\menu.h
+
+1495344418 source:e:\tuan linh\snake\src\menu.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+	"Setup.h"
+	"Menu.h"
+	"Snake.h"
+	"fruit.h"
+
